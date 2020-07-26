@@ -1,0 +1,33 @@
+.todoApp{
+   margin-top: 5%;
+   text-align: center;
+   width: 30%;
+ 
+}
+
+.add_btn{
+  
+    background: none;
+    background-color: transparent;
+    border-radius: 10px;
+}
+body{
+
+    background-image: url("todo.jpg");
+
+    background-position: center;
+   
+}
+
+.li{
+    margin-top: 20px;  
+    width: auto;   
+}
+.deletebtn , .editbtn{
+    
+    background: none;
+    background-color: transparent;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
